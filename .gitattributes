@@ -1,0 +1,13 @@
+# Normalise line endings so the repo behaves the same on Windows, macOS, Linux, GitHub, AI Studio and Netlify.
+* text=auto eol=lf
+
+# Binary assets: never touch line endings or diff them as text.
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.webp   binary
+*.avif   binary
+*.ico    binary
+*.woff2  binary
+*.woff   binary
+*.pdf    binary

@@ -1,0 +1,5 @@
+{
+  "name": "Allen's Auto Refinement — Website + Staff Portal",
+  "description": "Marketing site, used-vehicle inventory, cash-offer and service request forms, and a staff portal for Allen's Auto Refinement (Virginia Beach, VA). Plain HTML/CSS/JS prerendered by a Node build, with Netlify Functions + Postgres. Preview with `npm run dev` (port 3000, no setup); production hosting is Netlify (see README).",
+  "requestFramePermissions": []
+}
